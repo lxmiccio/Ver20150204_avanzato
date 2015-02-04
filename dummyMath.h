@@ -1,1 +1,1 @@
-void raddoppia(float f);
+void raddoppia(float *f);
